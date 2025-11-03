@@ -18,8 +18,8 @@ Import Google Fonts
 --------------------*/
 
 body {
-	margin: 0px;
 	font-family: "Raleway", Sans-serif;
+    width: 100%;
 }
 
 h1,
